@@ -27,4 +27,4 @@
 
 **Link(s) to work/resources used**
 1. [Create a calculator](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://realpython.com/python-pyqt-gui-calculator/#understanding-pyqt)
-2. [Qt for Python](https://www.freecodecamp.com/challenges/title-case-a-sentence](https://doc.qt.io/qtforpython/quickstart.html]
+2. [Qt for Python](https://www.freecodecamp.com/challenges/title-case-a-sentence](https://doc.qt.io/qtforpython/quickstart.html)
