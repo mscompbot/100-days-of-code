@@ -26,5 +26,5 @@
 **Thoughts** Today did not go well. Could not get pqqt to work with REPLIT and output anything at all. This has made me feel like this is too complicated for me. Ill try again tomorrow.
 
 **Link(s) to work/resources used**
-1. [Create a calculator]([https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://realpython.com/python-pyqt-gui-calculator/#understanding-pyqt))
-2. [Qt for Pyyhon]([https://www.freecodecamp.com/challenges/title-case-a-sentence](https://doc.qt.io/qtforpython/quickstart.html))
+1. [Create a calculator]([https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://realpython.com/python-pyqt-gui-calculator/#understanding-pyqt])
+2. [Qt for Python]([https://www.freecodecamp.com/challenges/title-case-a-sentence](https://doc.qt.io/qtforpython/quickstart.html])
