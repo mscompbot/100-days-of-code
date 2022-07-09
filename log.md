@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-'''
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -17,14 +17,14 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
-'''
+-->
 
 ### Day 0: 09 July, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've decided to start trying to make a calculator and explore Python GUI
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today did not go well. Could not get pqqt to work with REPLIT and output anything at all. This has made me feel like this is too complicated for me. Ill try again tomorrow.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work/resources used**
+1. [Create a calculator]([https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string](https://realpython.com/python-pyqt-gui-calculator/#understanding-pyqt))
+2. [Qt for Pyyhon]([https://www.freecodecamp.com/challenges/title-case-a-sentence](https://doc.qt.io/qtforpython/quickstart.html))
