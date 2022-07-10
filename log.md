@@ -28,3 +28,14 @@
 **Link(s) to work/resources used**
 1. [Create a calculator](https://realpython.com/python-pyqt-gui-calculator/#understanding-pyqt)
 2. [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
+
+
+### Day 1: 10 July, Sunday
+
+**Today's Progress**: Tried the calculator again!
+
+**Thoughts** So after the blunder with Qt and trying to get it working on REPLIT I decided to make the calculator using Tkinter which was easy enough! I used the Geeks for Geeks template. I have decided that I would like to look into data architecture so that is what I will focus on for my inital projects - data and databases.
+
+**Link(s) to work/resources used**
+1. [Create a calculator- Geeks for Geeks](https://www.geeksforgeeks.org/make-simple-calculator-using-python/)
+
