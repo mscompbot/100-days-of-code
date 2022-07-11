@@ -38,5 +38,17 @@
 
 **Link(s) to work/resources used**
 1. [Create a calculator - Geeks for Geeks](https://www.geeksforgeeks.org/make-simple-calculator-using-python/)
-2. [My Calculator Program](https://replit.com/@mscompbot/Calculator#main.py)
+2. [My Calculator Program - Replit](https://replit.com/@mscompbot/Calculator#main.py)
 
+
+### Day 2: 11 July, Monday
+
+**Today's Progress**: Data Analysis
+
+**Thoughts** Today I began the Data Analysis course on Free Code Camp. So far it is really good. I'm finding I'm daunted by how complicated it seems at first then my head gets around it and it seems pretty intuitive. 
+
+I began the lecuture work for lecture 1 and will carry on tomorrow. Just need to figure out how to stop those ellipses coming when I'm trying to view the data.
+
+**Link(s) to work/resources used**
+1. [Data Analysis Example A](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-analysis-example-a)
+2. [Data Analysis - Bike store - Replit](https://replit.com/@mscompbot/Data-Analysis-Bike-Store#main.py)
