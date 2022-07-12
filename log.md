@@ -52,3 +52,16 @@ I began the lecuture work for lecture 1 and will carry on tomorrow. Just need to
 **Link(s) to work/resources used**
 1. [Data Analysis Example A](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-analysis-example-a)
 2. [Data Analysis - Bike store - Replit](https://replit.com/@mscompbot/Data-Analysis-Bike-Store#main.py)
+
+
+
+### Day 3: 11 July, Tuesday
+
+**Today's Progress**: Starting my first project
+
+**Thoughts** Today I began my first project. I want to create a horoscope compatibility calculator. Firstly the user enters their star sign and their partners star sign and the program will generate the percentage compatibility. The user can select whether it is a love, frienship or professional relationship and the program will calculate how compatible they are.
+
+**Link(s) to work/resources used**
+1. [Data Analysis Example A](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-analysis-example-a)
+2. [Data Analysis - Bike store - Replit](https://replit.com/@mscompbot/Data-Analysis-Bike-Store#main.py)
+
