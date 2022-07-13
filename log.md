@@ -55,13 +55,22 @@ I began the lecuture work for lecture 1 and will carry on tomorrow. Just need to
 
 
 
-### Day 3: 11 July, Tuesday
+### Day 3: 12 July, Tuesday
 
 **Today's Progress**: Starting my first project
 
 **Thoughts** Today I began my first project. I want to create a horoscope compatibility calculator. Firstly the user enters their star sign and their partners star sign and the program will generate the percentage compatibility. The user can select whether it is a love, frienship or professional relationship and the program will calculate how compatible they are.
 
 **Link(s) to work/resources used**
-1. [Data Analysis Example A](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/data-analysis-example-a)
-2. [Data Analysis - Bike store - Replit](https://replit.com/@mscompbot/Data-Analysis-Bike-Store#main.py)
+1. [Horoscope Compatibility Project](https://replit.com/@mscompbot/Horoscope-Compatibilty-Calculator#main.py)
+
+
+### Day 4: 13 July, Wednesday
+
+**Today's Progress**: Working on setting the dates
+
+**Thoughts** Today was a good coding day. I managed to figure out how to use classes. I had an error with more arguments being passed in the __init__ section but managed to fix it using some stack overfl0w and W3Schools. I also read the documentation for the datetime python library which enabled me to compare dates and transorm user input into a date format. I want it to only recognise the month and day but will do that in future. I need to add some validation to the code to ensure the user enters in an actual date in the correct format. 
+
+**Link(s) to work/resources used**
+1. [Horoscope Compatibility Project](https://replit.com/@mscompbot/Horoscope-Compatibilty-Calculator#main.py)
 
