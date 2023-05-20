@@ -5,7 +5,7 @@
 **Thoughts** Just experimenting with some python functions and in-line loops. I attempted this challenge from twitter. Links below 
 
 **Link(s) to work/resources used**
-1. [Super Year Calculator for the 21st Century](https://replit.com/@mscompbot/Horoscope-Compatibilty-Calculator#main.py](https://replit.com/@mscompbot/Super-Year-Calculator-for-the-21st-Centuy)
+1. [Super Year Calculator for the 21st Century](https://replit.com/@mscompbot/Super-Year-Calculator-for-the-21st-Centuy)
 
 
 ### Day 4: 13 July, Wednesday
